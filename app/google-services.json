@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053210163833",
+    "project_id": "upload-ds3t-claudio",
+    "storage_bucket": "upload-ds3t-claudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053210163833:android:333d85068b9c0f9ba4f2a8",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_ds3t"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0h8cWTjhe3shDu_RPqDdOtvKKprJlFWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053210163833:android:00df78a1bcf3ef29a4f2a8",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0h8cWTjhe3shDu_RPqDdOtvKKprJlFWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
